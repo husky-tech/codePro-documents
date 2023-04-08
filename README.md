@@ -11,6 +11,6 @@
 「Download Zip」から Zip を PC にダウンロードし、
 解凍してご利用下さい。
 
-<img width="1788" alt="0-1-2" src="https://user-images.githubusercontent.com/35168574/111481562-6ed0cb00-8776-11eb-9e74-d0f5c5e10d26.png">
+<img width="2031" alt="howtodownload_image" src="https://user-images.githubusercontent.com/35168574/230710434-5fd06bac-89e5-45e5-a0a0-5067e24ee2c4.png">
 
 <br><br><br>
